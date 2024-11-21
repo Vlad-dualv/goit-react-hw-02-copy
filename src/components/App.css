@@ -1,0 +1,18 @@
+:root {
+  max-width: 1280px;
+  margin: 100px auto;
+  text-align: left;
+}
+
+button {
+  font-size: 22px;
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  border: 1px solid black;
+}
+
+p {
+  font-size: 22px;
+}
